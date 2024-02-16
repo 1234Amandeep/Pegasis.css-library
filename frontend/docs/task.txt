@@ -1,4 +1,6 @@
-CURRENT WORKING FEATURE -> []
+CURRENT WORKING FEATURE -> [Basic Typography (for eg. font-size, h1 to h4, p, some styled text like italics + slimmer taller text)]
 
   #Tasks:-
-    1.
+    1. Set default variables (for eg. $base-font-size, $base-font-thickness, $base-letter-spacing)
+    2. Generate basic typography classes (for eg. .h1 to .h4, .p, .s-p for styled para)
+    3. Test them and make them more robust

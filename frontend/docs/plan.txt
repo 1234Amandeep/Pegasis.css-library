@@ -1,4 +1,8 @@
 PEGASIS.CSS-LIBRARY:-
 
   #Features:-
-    1.
+    1. Basic Typography (for eg. font-size, h1 to h4, p, some styled text like italics + slimmer taller text)
+    2. Basic styling (for eg. colors, bg-colors, borders, shadows)
+    3. Spacing (for eg. margins, paddings)
+    4. Utilites (for eg. d-flex, d-grid, d-block, container)
+    5. Basic Components (for eg. navbar, footer, cards)
